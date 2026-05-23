@@ -17,8 +17,19 @@ print(x)
 
 Η γνωστή εξίσωση του Αϊνστάιν είναι $E = mc^2$.
 
-
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
+Τρόπος Α: Σύρσιμο και Απόθεση (Drag & Drop/ Screenshots) - Ο πιο εύκολος
+Το GitHub θα ανεβάσει αυτόματα την εικόνα στους servers του και θα δημιουργήσει έναν κώδικα που μοιάζει με αυτόν:
 
-<img width="1536" height="1024" alt="20260415_Thumb" src="https://github.com/user-attachments/assets/fc1e90fa-36bb-41a0-a6b9-cc599463ffa9" />
+```markdown
+![image](https://github.com/user-attachments/assets/...)
+Μην αλλάξετε αυτόν τον κώδικα, είναι η εικόνα σας!
+```
+
+Τρόπος Β: Χειροκίνητη εισαγωγή (Αν η εικόνα είναι ήδη στο repository σας)
+Αν έχετε ανεβάσει μια εικόνα με όνομα my_chart.png στον ίδιο φάκελο με το README σας, μπορείτε να τη δείξετε γράφοντας:
+
+```Markdown
+![Περιγραφή Εικόνας](my_chart.png)
+```
