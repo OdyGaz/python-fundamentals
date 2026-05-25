@@ -1,4 +1,3 @@
-# python-fundamentals
 # Notes
 # 25-May-2026
 
