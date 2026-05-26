@@ -206,7 +206,7 @@ if isinstance(x, int):
 
 ---
 
-### Πρόβλημα 3 [snippet](exercises/Chapter2_Example_3.py)
+### Πρόβλημα 3 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Example_3.py)
 Γράψτε ένα τμήμα κώδικα σε Python το οποίο θα εναλλάσσει τις τιμές τριών μεταβλητών `a`, `b` και `c` κυκλικά (δηλαδή η τιμή της `a` να πάει στη `b`, της `b` στη `c` και της `c` στην `a`), χρησιμοποιώντας:
 α) Προσωρινές μεταβλητές.
 β) Ταυτόχρονη ανάθεση (simultaneous assignment).
@@ -253,7 +253,7 @@ $$K = M \times 1.60934$$
 
 ---
 
-### Πρόβλημα 5 [snippet](exercises/Chapter2_Example_5.py)
+### Πρόβλημα 5 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Example_5.py)
 Δώστε την έξοδο του παρακάτω προγράμματος αν ο χρήστης εισάγει την τιμή `4`:
 ```python
 def main():
@@ -395,12 +395,12 @@ main()
 
 ## 3. Συμπληρωματικά / Άλυτα Προβλήματα (Supplementary Problems)
 
-### Πρόβλημα 1 [snippet](exercises/Chapter2_Problem_1.py)
+### Πρόβλημα 1 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Problem_1.py)
 Γράψτε πρόγραμμα σε Python που ζητά από τον χρήστη τη θερμοκρασία σε βαθμούς Φαρενάιτ ($F$) και την τυπώνει μετατραμμένη σε βαθμούς Κελσίου ($C$) βάσει του τύπου:
 $$C = \frac{5}{9}(F - 32)$$
 *(Απάντηση: `celsius = 5/9 * (fahrenheit - 32)`)*
 
-### Πρόβλημα 2 [snippet](exercises/Chapter2_Problem_2.py)
+### Πρόβλημα 2 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Problem_2.py)
 Ποιο θα είναι το τελικό αποτέλεσμα στην οθόνη αν εκτελεστεί το παρακάτω τμήμα κώδικα;
 ```python
 ans = 1
@@ -410,19 +410,19 @@ print(ans)
 ```
 *(Απάντηση: `24`)*
 
-### Πρόβλημα 3 [snippet](exercises/Chapter2_Problem_3.py)
+### Πρόβλημα 3 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Problem_3.py)
 Μετατρέψτε την παρακάτω μαθηματική παράσταση σε έγκυρη έκφραση της Python:
 $$y = \frac{x^3 - 3x^2 + 5}{2a}$$
 *(Απάντηση: `y = (x**3 - 3*x**2 + 5) / (2 * a)`)*
 
-### Πρόβλημα 4 [snippet](exercises/Chapter2_Problem_4.py)
+### Πρόβλημα 4 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Problem_4.py)
 Τι θα εμφανίσει στην οθόνη η παρακάτω εντολή;
 ```python
 print("Python", "Programming", sep=" - ", end="!!!\n")
 ```
 *(Απάντηση: `Python - Programming!!!`)*
 
-### Πρόβλημα 5 [snippet](exercises/Chapter2_Problem_5.py)
+### Πρόβλημα 5 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Problem_5.py)
 Ένας χρήστης πληκτρολογεί `100` στην παρακάτω εντολή εισόδου. Ποιος θα είναι ο τύπος δεδομένων της μεταβλητής `value`;
 ```python
 value = input("Εισάγετε ένα ποσό: ")
