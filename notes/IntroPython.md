@@ -25,7 +25,7 @@
 
 ### 1.4 Είσοδος & Έξοδος Δεδομένων (Input/Output)
 * **Έξοδος (`print()`):** Εμφανίζει δεδομένα στην οθόνη.
-  $$\text{print}(\langle\text{expr1}\rangle, \langle\text{expr2}\rangle, \dots, \text{end}="\backslash\text{n}")$$
+  $\text{print}(\langle\text{expr1}\rangle, \langle\text{expr2}\rangle, \dots, \text{end}="\backslash\text{n}")$
   Η παράμετρος `end` καθορίζει τον χαρακτήρα τερματισμού της γραμμής (προεπιλογή: αλλαγή γραμμής `\n`).
 * **Είσοδος Κειμένου (`input()`):** Διαβάζει την είσοδο του χρήστη ως συμβολοσειρά (string).
 * **Αριθμητική Είσοδος (`eval(input())`):** Η συνάρτηση `eval()` αξιολογεί το κείμενο εισόδου ως έκφραση της Python.
@@ -34,7 +34,7 @@
 ### 1.5 Ανάθεση Τιμών & Ταυτόχρονη Ανάθεση
 * **Απλή Ανάθεση:** $\langle\text{variable}\rangle = \langle\text{expr}\rangle$. Η Python συνδέει το όνομα της μεταβλητής με την τιμή στη μνήμη (μοντέλο "sticky note").
 * **Ταυτόχρονη Ανάθεση (Simultaneous Assignment):**
-  $$\langle\text{var1}\rangle, \langle\text{var2}\rangle, \dots = \langle\text{expr1}\rangle, \langle\text{expr2}\rangle, \dots$$
+  $\langle\text{var1}\rangle, \langle\text{var2}\rangle, \dots = \langle\text{expr1}\rangle, \langle\text{expr2}\rangle, \dots$
   Επιτρέπει την εναλλαγή (swap) τιμών χωρίς προσωρινή μεταβλητή: `x, y = y, x`.
 
 ### 1.6 Δομή Επανάληψης `for`
@@ -195,14 +195,14 @@ if isinstance(x, int):
 
 **Λύση:**
 * **α)** Ο πολλαπλασιασμός (`*`) έχει υψηλότερη προτεραιότητα από την πρόσθεση (`+`).
-  $$15 + (3 \times 4) = 15 + 12 = 27$$
+  $15 + (3 \times 4) = 15 + 12 = 27$
 * **β)** Η ύψωση σε δύναμη (`**`) προηγείται της ακέραιας διαίρεσης (`//`), η οποία με τη σειρά της προηγείται της αφαίρεσης (`-`).
-  $$2^3 = 8$$
-  $$9 // 4 = 2 \quad (\text{το ακέραιο μέρος του } 2.25)$$
-  $$8 - 2 = 6$$
+  $2^3 = 8$
+  $9 // 4 = 2 \quad (\text{το ακέραιο μέρος του } 2.25)$
+  $8 - 2 = 6$
 * **γ)** Ο πολλαπλασιασμός string επαναλαμβάνει τη συμβολοσειρά, ενώ η πρόσθεση (`+`) πραγματοποιεί συνένωση (concatenation).
-  $$\text{"Hello"} \times 2 = \text{"HelloHello"}$$
-  $$\text{"HelloHello"} + \text{"World"} = \text{"HelloHelloWorld"}$$
+  $\text{"Hello"} \times 2 = \text{"HelloHello"}$
+  $\text{"HelloHello"} + \text{"World"} = \text{"HelloHelloWorld"}$
 
 ---
 
@@ -231,7 +231,7 @@ if isinstance(x, int):
 
 ### Πρόβλημα 4
 Σχεδιάστε αλγόριθμο σε ψευδοκώδικα και στη συνέχεια γράψτε ένα πλήρες πρόγραμμα σε Python που μετατρέπει μια απόσταση από μίλια ($M$) σε χιλιόμετρα ($K$), με βάση τον τύπο:
-$$K = M \times 1.60934$$
+$K = M \times 1.60934$
 
 **Λύση:**
 * **Αλγόριθμος (Ψευδοκώδικας):**
@@ -281,19 +281,19 @@ main()
 
 ### Πρόβλημα 6
 Η χαοτική συμπεριφορά της λογιστικής απεικόνισης (logistic map) περιγράφεται από τη σχέση:
-$$x_{n+1} = k \cdot x_n \cdot (1 - x_n)$$
+$x_{n+1} = k \cdot x_n \cdot (1 - x_n)$
 Για $k = 4.0$ και αρχική τιμή $x_0 = 0.3$, υπολογίστε χειροκίνητα τις τιμές $x_1$ και $x_2$.
 
 **Λύση:**
 * **Βήμα 1: Υπολογισμός του $x_1$ για $n = 0$**
-  $$x_1 = k \cdot x_0 \cdot (1 - x_0)$$
-  $$x_1 = 4.0 \cdot 0.3 \cdot (1 - 0.3) = 4.0 \cdot 0.3 \cdot 0.7$$
-  $$x_1 = 1.2 \cdot 0.7 = 0.84$$
+  $x_1 = k \cdot x_0 \cdot (1 - x_0)$
+  $x_1 = 4.0 \cdot 0.3 \cdot (1 - 0.3) = 4.0 \cdot 0.3 \cdot 0.7$
+  $x_1 = 1.2 \cdot 0.7 = 0.84$
 
 * **Βήμα 2: Υπολογισμός του $x_2$ για $n = 1$**
-  $$x_2 = k \cdot x_1 \cdot (1 - x_1)$$
-  $$x_2 = 4.0 \cdot 0.84 \cdot (1 - 0.84) = 4.0 \cdot 0.84 \cdot 0.16$$
-  $$x_2 = 3.36 \cdot 0.16 = 0.5376$$
+  $x_2 = k \cdot x_1 \cdot (1 - x_1)$
+  $x_2 = 4.0 \cdot 0.84 \cdot (1 - 0.84) = 4.0 \cdot 0.84 \cdot 0.16$
+  $x_2 = 3.36 \cdot 0.16 = 0.5376$
 
 ---
 
@@ -346,13 +346,13 @@ for i in 1, 3, 5:
 **Λύση:**
 Η επανάληψη εκτελείται για κάθε στοιχείο της λίστας `1, 3, 5`.
 * **1η Επανάληψη ($i = 1$):**
-  $$\text{sum\_val} = 0 + 1 = 1$$
+  $\text{sum\_val} = 0 + 1 = 1$
   *Έξοδος:* `i = 1 τρέχον άθροισμα = 1`
 * **2η Επανάληψη ($i = 3$):**
-  $$\text{sum\_val} = 1 + 3 = 4$$
+  $\text{sum\_val} = 1 + 3 = 4$
   *Έξοδος:* `i = 3 τρέχον άθροισμα = 4`
 * **3η Επανάληψη ($i = 5$):**
-  $$\text{sum\_val} = 4 + 5 = 9$$
+  $\text{sum\_val} = 4 + 5 = 9$
   *Έξοδος:* `i = 5 τρέχον άθροισμα = 9`
 
 ---
@@ -397,7 +397,7 @@ main()
 
 ### Πρόβλημα 1 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Problem_1.py)
 Γράψτε πρόγραμμα σε Python που ζητά από τον χρήστη τη θερμοκρασία σε βαθμούς Φαρενάιτ ($F$) και την τυπώνει μετατραμμένη σε βαθμούς Κελσίου ($C$) βάσει του τύπου:
-$$C = \frac{5}{9}(F - 32)$$
+$C = \frac{5}{9}(F - 32)$
 *(Απάντηση: `celsius = 5/9 * (fahrenheit - 32)`)*
 
 ### Πρόβλημα 2 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Problem_2.py)
@@ -412,7 +412,7 @@ print(ans)
 
 ### Πρόβλημα 3 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Problem_3.py)
 Μετατρέψτε την παρακάτω μαθηματική παράσταση σε έγκυρη έκφραση της Python:
-$$y = \frac{x^3 - 3x^2 + 5}{2a}$$
+$y = \frac{x^3 - 3x^2 + 5}{2a}$
 *(Απάντηση: `y = (x**3 - 3*x**2 + 5) / (2 * a)`)*
 
 ### Πρόβλημα 4 [snippet](https://github.com/OdyGaz/python-fundamentals/blob/main/exercises/Chapter2_Problem_4.py)
