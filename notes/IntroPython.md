@@ -140,8 +140,8 @@ print("Β")      # Έξοδος: Α - Β
 2. **Tuple Unpacking (Ξεπακετάρισμα):** Όταν αντιστοιχίζουμε αυτή την πλειάδα σε μεταβλητές στα αριστερά του `=` (π.χ. `num1, num2 = 12, 16`), η Python εκχωρεί αυτόματα το πρώτο στοιχείο στην πρώτη μεταβλητή και το δεύτερο στη δεύτερη.
 
 *Σχηματική αναπαράσταση:*
-$$\text{shmeio} = 12, 16 \implies \text{shmeio} = (12, 16) \quad \text{[Tuple]}$$
-$$\text{num1}, \text{num2} = \text{shmeio} \implies \text{num1} = 12, \ \text{num2} = 16 \quad \text{[Unpacking]}$$
+$\text{shmeio} = 12, 16 \implies \text{shmeio} = (12, 16) \quad \text{[Tuple]}$
+$\text{num1}, \text{num2} = \text{shmeio} \implies \text{num1} = 12, \ \text{num2} = 16 \quad \text{[Unpacking]}$
 
 ---
 
