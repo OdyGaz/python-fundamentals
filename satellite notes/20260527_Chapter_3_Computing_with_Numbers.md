@@ -45,7 +45,7 @@ import math
 | `math.ceil(x)`, `math.floor(x)` | οροφή, δάπεδο |
 
 # 🤔 τι κάνουν οι ceil και floor ?
-[[20260527_Chapter_3_Computing_with_Numbers_math_ceil_floor]]
+[20260527_Chapter_3_Computing_with_Numbers_math_ceil_floor](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260527_Chapter_3_Computing_with_Numbers_math_ceil_floor.md)
 
 
 ### Πρότυπο συσσώρευσης (accumulator pattern)
@@ -60,7 +60,7 @@ for element in sequence:
 
 **Παράδειγμα** (παραγοντικό): `fact = 1; for i in range(2, n+1): fact *= i`
 # 🤔 Γιατί δεν τρέχει ?
-[[20260527_Chapter_3_Computing_with_Numbers_one_line_code]]
+[20260527_Chapter_3_Computing_with_Numbers_one_line_code](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260527_Chapter_3_Computing_with_Numbers_one_line_code.md)
 
 ### Περιορισμοί αριθμητικής υπολογιστή
 
@@ -160,7 +160,7 @@ if __name__ == "__main__":
 if __name__ == "__main__":
 ```
 
-[[20260527_Chapter_3_Computing_with_Numbers_IfNameMain]]
+[20260527_Chapter_3_Computing_with_Numbers_IfNameMain](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260527_Chapter_3_Computing_with_Numbers_IfNameMain.md)
 
 
 # 🤔 Tι σημαίνει?
@@ -168,7 +168,7 @@ if __name__ == "__main__":
 ```python
 print(f"Total value: ${total:.2f}")
 ```
-[[20260527_Chapter_3_Computing_with_Numbers_Print_f]]
+[20260527_Chapter_3_Computing_with_Numbers_Print_f](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260527_Chapter_3_Computing_with_Numbers_Print_f.md)
 
 ---
 
