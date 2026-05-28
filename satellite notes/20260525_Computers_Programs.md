@@ -37,7 +37,7 @@
   $$\text{Ανάκληση (Fetch)} \longrightarrow \text{Αποκωδικοποίηση (Decode)} \longrightarrow \text{Εκτέλεση (Execute)}$$
 
 #### 🤔 Τι είναι το Fetch-Execute Cycle?
-[20260525_Computers_Programs_Asset_Fetch_Execute_Cycle](satellite notes/Assets/20260525_Computers_Programs_eval.md)
+[20260525_Computers_Programs_Asset_Fetch_Execute_Cycle](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260525_Computers_Programs_Asset_Fetch_Execute_Cycle.md)
 
 ### 1.3 Επιστήμη των Υπολογιστών και Αλγόριθμοι
 * **Επιστήμη των Υπολογιστών (Computer Science):** Η μελέτη των διαδικασιών που μπορούν να περιγραφούν και να υπολογιστούν. Το κεντρικό ερώτημα της επιστήμης είναι: *«Τι μπορεί να υπολογιστεί;»* (What can be computed?).
