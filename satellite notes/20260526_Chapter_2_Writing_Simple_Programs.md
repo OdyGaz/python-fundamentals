@@ -71,15 +71,15 @@ for <var> in <sequence>:
 
 ---
 
-[[20260526_Chapter_2_Writing_Simple_Programs_snippets]]
+[20260526_Chapter_2_Writing_Simple_Programs_snippets](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260526_Chapter_2_Writing_Simple_Programs_snippets.md)
 
-[[20260526_Chapter_2_Writing_Simple_Programs_for_range]]
+[20260526_Chapter_2_Writing_Simple_Programs_for_range](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260526_Chapter_2_Writing_Simple_Programs_for_range.md)
 
-[[20260526_Chapter_2_Writing_Simple_Programs_end]]
+[20260526_Chapter_2_Writing_Simple_Programs_end](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260526_Chapter_2_Writing_Simple_Programs_end.md)
 
-[[20260526_Chapter_2_Writing_Simple_Programs_tuple]]
+[20260526_Chapter_2_Writing_Simple_Programs_tuple](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260526_Chapter_2_Writing_Simple_Programs_tuple.md)
 
-[[20260526_Chapter_2_Writing_Simple_Programs_data_type]]
+[20260526_Chapter_2_Writing_Simple_Programs_data_type](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260526_Chapter_2_Writing_Simple_Programs_data_type.md)
 
 ---
 
