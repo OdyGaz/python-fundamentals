@@ -62,7 +62,7 @@
 [20260525_Computers_Programs_eval](./20260525_Computers_Programs_eval.md)
 [20260525_Computers_Programs_functions_in_files](./20260525_Computers_Programs_functions_in_files.md)
 [20260525_Computers_Programs_Scripting_Languages](./20260525_Computers_Programs_Scripting_Languages.md)
-[20260525_Computers_Programs_third_party_application_modules](./20260525_Computers_Programs_third_party_application_modules.md)
+[20260525_Computers_Programs_third_party_application_modules](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/Assets/20260525_Computers_Programs_third_party_application_modules.md)
 
 ---
 
