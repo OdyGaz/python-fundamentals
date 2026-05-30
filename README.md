@@ -1,6 +1,10 @@
 # python-fundamentals
 My exercises, scripts, and small projects while learning Python.
 
+# 31-May-2026
+## Commit 1: Notes
+[Chapter 4: Objects & Graphics](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/20260527_Chapter_4_Objects_and_%20Graphics.md)
+
 # 28-May-2026
 
 ## Commit 2: Τεχνικό Λεξικό: Chapter 1-3
