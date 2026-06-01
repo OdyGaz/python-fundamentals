@@ -27,7 +27,8 @@
 2. Αν χρησιμοποιείτε τον package manager **Chocolatey** ή **Scoop**, εκτελέστε στο PowerShell (ως διαχειριστής):
    ```powershell
    choco install ffmpeg
-   # ή
+   ```
+   ```
    scoop install ffmpeg
    ```
 3. Αν το εγκαταστήσετε χειροκίνητα, βεβαιωθείτε ότι έχετε προσθέσει τη διαδρομή του φακέλου `bin` του FFmpeg στις μεταβλητές περιβάλλοντος του συστήματος (System PATH).
