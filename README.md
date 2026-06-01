@@ -3,7 +3,7 @@ My exercises, scripts, and small projects while learning Python.
 
 # 1-June-2026
 ## Commit 1: Notes
-[Manim Library]
+[Manim Library](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/22060601_%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE_%CF%83%CF%84%CE%B7_Manim.md)
 
 # 31-May-2026
 ## Commit 1: Notes
