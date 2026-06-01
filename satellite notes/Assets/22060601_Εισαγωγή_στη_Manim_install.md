@@ -28,6 +28,7 @@
    ```powershell
    choco install ffmpeg
    ```
+   ή
    ```
    scoop install ffmpeg
    ```
