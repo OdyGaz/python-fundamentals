@@ -1,6 +1,10 @@
 # python-fundamentals
 My exercises, scripts, and small projects while learning Python.
 
+# 1-June-2026
+## Commit 1: Notes
+[Manim Library]
+
 # 31-May-2026
 ## Commit 1: Notes
 [Chapter 4: Objects & Graphics](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/20260527_Chapter_4_Objects_and_%20Graphics.md)
@@ -90,3 +94,8 @@ My exercises, scripts, and small projects while learning Python.
 ## Commit 1: Notes
 
 [Chapter 1: Computers and Programs](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/20260525_Chapter_1_Computers_Programs.md)
+
+
+# 25-May-2026
+## Commit 1: Install Python
+[Eγκατάσταση Python: Windows](https://github.com/OdyGaz/python-fundamentals/blob/main/satellite%20notes/20260525_InstallPython.md)
